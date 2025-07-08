@@ -1,0 +1,5 @@
+results/*
+!results/.gitkeep
+*.pyc
+__pycache__/
+data/fluor
